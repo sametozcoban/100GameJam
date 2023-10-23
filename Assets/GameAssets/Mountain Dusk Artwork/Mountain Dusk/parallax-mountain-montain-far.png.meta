@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 4b7c10231d5894a75a97394241166338
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      parallax-mountain-montain-far_0: -566272319
+      parallax-mountain-montain-far_1: -1135882452
+      parallax-mountain-montain-far_10: 580867229
+      parallax-mountain-montain-far_11: 290896435
+      parallax-mountain-montain-far_12: -4288585
+      parallax-mountain-montain-far_13: -255464409
+      parallax-mountain-montain-far_14: 646584951
+      parallax-mountain-montain-far_15: 36634237
+      parallax-mountain-montain-far_16: -1634308959
+      parallax-mountain-montain-far_17: -1449753058
+      parallax-mountain-montain-far_18: 1482634729
+      parallax-mountain-montain-far_19: 1021684871
+      parallax-mountain-montain-far_2: 191843545
+      parallax-mountain-montain-far_20: -1696901292
+      parallax-mountain-montain-far_21: 548629283
+      parallax-mountain-montain-far_22: 799560351
+      parallax-mountain-montain-far_23: -47182481
+      parallax-mountain-montain-far_24: -1240163196
+      parallax-mountain-montain-far_25: 75541332
+      parallax-mountain-montain-far_26: -1888036976
+      parallax-mountain-montain-far_27: 248882277
+      parallax-mountain-montain-far_28: -59140265
+      parallax-mountain-montain-far_29: 1554606652
+      parallax-mountain-montain-far_3: -53603521
+      parallax-mountain-montain-far_30: 1420116761
+      parallax-mountain-montain-far_31: 212360082
+      parallax-mountain-montain-far_32: 972069651
+      parallax-mountain-montain-far_33: -1356680288
+      parallax-mountain-montain-far_34: 1688935096
+      parallax-mountain-montain-far_35: -363389314
+      parallax-mountain-montain-far_36: -240744400
+      parallax-mountain-montain-far_37: 913867044
+      parallax-mountain-montain-far_38: -1277976965
+      parallax-mountain-montain-far_39: 969470108
+      parallax-mountain-montain-far_4: 423598642
+      parallax-mountain-montain-far_40: 1242753051
+      parallax-mountain-montain-far_41: -1529709885
+      parallax-mountain-montain-far_42: 1168003226
+      parallax-mountain-montain-far_43: -1764759927
+      parallax-mountain-montain-far_44: -297297671
+      parallax-mountain-montain-far_45: -267681824
+      parallax-mountain-montain-far_46: -1951531316
+      parallax-mountain-montain-far_47: -138775801
+      parallax-mountain-montain-far_48: 559070330
+      parallax-mountain-montain-far_49: 272615988
+      parallax-mountain-montain-far_5: -441897674
+      parallax-mountain-montain-far_50: 1421908283
+      parallax-mountain-montain-far_51: 1846176591
+      parallax-mountain-montain-far_52: -1054937846
+      parallax-mountain-montain-far_53: -1883898460
+      parallax-mountain-montain-far_54: 464423391
+      parallax-mountain-montain-far_55: 1494924945
+      parallax-mountain-montain-far_56: -447460171
+      parallax-mountain-montain-far_57: 2031980391
+      parallax-mountain-montain-far_58: 156233185
+      parallax-mountain-montain-far_59: -824168443
+      parallax-mountain-montain-far_6: -1865642509
+      parallax-mountain-montain-far_60: -1098925881
+      parallax-mountain-montain-far_61: -2080041473
+      parallax-mountain-montain-far_62: 1948180264
+      parallax-mountain-montain-far_63: 724538194
+      parallax-mountain-montain-far_64: -558595310
+      parallax-mountain-montain-far_7: -1691921633
+      parallax-mountain-montain-far_8: -706556211
+      parallax-mountain-montain-far_9: 26008058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 706a40fad581e9e40837b94ece55038b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerSLAP_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5027ac06a22f4b834f28aabc4a708
+      internalID: -381609103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 400
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f41c8d2f970148a9dba48ed302e34
+      internalID: -885553501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c25694edafd6d4ea30ad0777031559
+      internalID: -1427543513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3339f5e97d0ea46ab671207792160c
+      internalID: 956698783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9777d3be6cf7a24ba56e956a9ae5ab1
+      internalID: 1867607399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c0a07bbd6b4b4ea124a5ce50a52b8
+      internalID: 1198406020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c8653b4363454bb0e75ce9f4bd523
+      internalID: 169123131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerSLAP_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 400
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6a4b973bf66047bc43799b3bf3f70
+      internalID: -1549482617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adventure_Character_Simple_0: 2102982496
+      Adventure_Character_Simple_1: 466020369
+      Adventure_Character_Simple_10: 748720117
+      Adventure_Character_Simple_100: -988297238
+      Adventure_Character_Simple_101: -995463704
+      Adventure_Character_Simple_102: -632989029
+      Adventure_Character_Simple_103: -918030536
+      Adventure_Character_Simple_104: -753059094
+      Adventure_Character_Simple_105: 1445207037
+      Adventure_Character_Simple_106: 1970961963
+      Adventure_Character_Simple_107: 1979762261
+      Adventure_Character_Simple_108: -1044102958
+      Adventure_Character_Simple_11: -543135536
+      Adventure_Character_Simple_12: -1487938927
+      Adventure_Character_Simple_13: 1963954328
+      Adventure_Character_Simple_14: -2005900499
+      Adventure_Character_Simple_15: -658316243
+      Adventure_Character_Simple_16: 1545143168
+      Adventure_Character_Simple_17: -945453919
+      Adventure_Character_Simple_18: -159065766
+      Adventure_Character_Simple_19: -197006403
+      Adventure_Character_Simple_2: -1891445508
+      Adventure_Character_Simple_20: -1416327831
+      Adventure_Character_Simple_21: -1877443058
+      Adventure_Character_Simple_22: -1902262300
+      Adventure_Character_Simple_23: -1843283285
+      Adventure_Character_Simple_24: -1274739563
+      Adventure_Character_Simple_25: -539214035
+      Adventure_Character_Simple_26: -1973910559
+      Adventure_Character_Simple_27: -949303847
+      Adventure_Character_Simple_28: -801166215
+      Adventure_Character_Simple_29: -493965448
+      Adventure_Character_Simple_3: 1060378949
+      Adventure_Character_Simple_30: 1693654881
+      Adventure_Character_Simple_31: 1185975912
+      Adventure_Character_Simple_32: -1628526279
+      Adventure_Character_Simple_33: 470721980
+      Adventure_Character_Simple_34: -1615981929
+      Adventure_Character_Simple_35: 334320700
+      Adventure_Character_Simple_36: -203563007
+      Adventure_Character_Simple_37: 1059755086
+      Adventure_Character_Simple_38: -685561471
+      Adventure_Character_Simple_39: 1555258216
+      Adventure_Character_Simple_4: 1980589600
+      Adventure_Character_Simple_40: -2087565981
+      Adventure_Character_Simple_41: 229415785
+      Adventure_Character_Simple_42: -1872206167
+      Adventure_Character_Simple_43: -742415917
+      Adventure_Character_Simple_44: 1066619509
+      Adventure_Character_Simple_45: -1660660396
+      Adventure_Character_Simple_46: 17856383
+      Adventure_Character_Simple_47: 1639602481
+      Adventure_Character_Simple_48: -2035211760
+      Adventure_Character_Simple_49: -1582473547
+      Adventure_Character_Simple_5: 91193481
+      Adventure_Character_Simple_50: 1395079297
+      Adventure_Character_Simple_51: 1963145496
+      Adventure_Character_Simple_52: -1021514928
+      Adventure_Character_Simple_53: 538605653
+      Adventure_Character_Simple_54: -1423150372
+      Adventure_Character_Simple_55: 262243607
+      Adventure_Character_Simple_56: 498524788
+      Adventure_Character_Simple_57: -551232076
+      Adventure_Character_Simple_58: 945260280
+      Adventure_Character_Simple_59: 768970760
+      Adventure_Character_Simple_6: 1157684935
+      Adventure_Character_Simple_60: 392177494
+      Adventure_Character_Simple_61: 788280502
+      Adventure_Character_Simple_62: 1534681500
+      Adventure_Character_Simple_63: 1088861652
+      Adventure_Character_Simple_64: -1848019066
+      Adventure_Character_Simple_65: 1169629803
+      Adventure_Character_Simple_66: -1368645032
+      Adventure_Character_Simple_67: -1406961402
+      Adventure_Character_Simple_68: -1148070234
+      Adventure_Character_Simple_69: -517599645
+      Adventure_Character_Simple_7: -482037271
+      Adventure_Character_Simple_70: -668794644
+      Adventure_Character_Simple_71: -508438957
+      Adventure_Character_Simple_72: -1746015849
+      Adventure_Character_Simple_73: 176021941
+      Adventure_Character_Simple_74: 922757037
+      Adventure_Character_Simple_75: -2057763281
+      Adventure_Character_Simple_76: -539163569
+      Adventure_Character_Simple_77: -765626189
+      Adventure_Character_Simple_78: -1726918423
+      Adventure_Character_Simple_79: 285573753
+      Adventure_Character_Simple_8: 528959100
+      Adventure_Character_Simple_80: -894552337
+      Adventure_Character_Simple_81: -1376919392
+      Adventure_Character_Simple_82: 1750097130
+      Adventure_Character_Simple_83: 1931388043
+      Adventure_Character_Simple_84: -920972699
+      Adventure_Character_Simple_85: 1397457384
+      Adventure_Character_Simple_86: 349188153
+      Adventure_Character_Simple_87: -278419575
+      Adventure_Character_Simple_88: 764049292
+      Adventure_Character_Simple_89: 1664800240
+      Adventure_Character_Simple_9: -186003101
+      Adventure_Character_Simple_90: 124311677
+      Adventure_Character_Simple_91: 434213174
+      Adventure_Character_Simple_92: 198178011
+      Adventure_Character_Simple_93: 870510846
+      Adventure_Character_Simple_94: 267137965
+      Adventure_Character_Simple_95: -650383596
+      Adventure_Character_Simple_96: 1984036937
+      Adventure_Character_Simple_97: 1438514040
+      Adventure_Character_Simple_98: -1422887167
+      Adventure_Character_Simple_99: 1257116580
+      playerATACK_0: -367400367
+      playerIDLE 1_0: 1218432172
+      playerIDLE 1_1: -1655810226
+      playerIDLE 1_2: -572440321
+      playerIDLE 1_3: 207832351
+      playerIDLE 1_4: 1086873500
+      playerIDLE_0: 574147053
+      playerSLAP_0: -381609103
+      playerSLAP_1: -885553501
+      playerSLAP_2: -1427543513
+      playerSLAP_3: 956698783
+      playerSLAP_4: 1867607399
+      playerSLAP_5: 1198406020
+      playerSLAP_6: 169123131
+      playerSLAP_7: -1549482617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

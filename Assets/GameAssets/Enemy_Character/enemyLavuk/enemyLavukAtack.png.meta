@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 3b9200647e2959e4381f1f7fc518ea0e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyLavukAtack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ce70d1caf2abf44a0066002ebfd301
+      internalID: 199289454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae39febb1e899be4a8332c3b0c0f83b8
+      internalID: -1938200823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8de28a61ceb4a41adba348022232bb
+      internalID: 1556942459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 64
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55cd73d2a856744a47f421133d07bc
+      internalID: 1853749948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4be667238d104499a71e5204b0020f
+      internalID: -1016885113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 64
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fdda62d73745e48af5f7ca131a9524
+      internalID: 1187724470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 64
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985762b5cfe6af44bca08fcca5aaf79
+      internalID: 1476631702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7efcd870196134aa0f7802310e489c
+      internalID: 907407886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ad54f8ba9ebda45b59e91c7a00be5e
+      internalID: -1388532406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327dec37cf847b48892af6f39a1a5be
+      internalID: 627506967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyLavukAtack_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43e6dedf6e96da439f33b3a9ab8609f
+      internalID: 267146378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knight_anin_0: 1986870680
+      Knight_anin_1: 1763930829
+      Knight_anin_10: -479866067
+      Knight_anin_11: 866372712
+      Knight_anin_12: 1512537626
+      Knight_anin_13: 1005679192
+      Knight_anin_14: 1164601843
+      Knight_anin_15: 959514163
+      Knight_anin_16: 73439848
+      Knight_anin_17: 1768764645
+      Knight_anin_18: 382361379
+      Knight_anin_19: 1524451335
+      Knight_anin_2: 1769448361
+      Knight_anin_20: 1836506806
+      Knight_anin_21: 2098471722
+      Knight_anin_22: 644235134
+      Knight_anin_23: 1079331322
+      Knight_anin_24: -832008781
+      Knight_anin_25: -932017268
+      Knight_anin_26: -636988001
+      Knight_anin_27: -1486630407
+      Knight_anin_28: -101809480
+      Knight_anin_29: 896204405
+      Knight_anin_3: 630403769
+      Knight_anin_30: 1820090996
+      Knight_anin_31: -124327130
+      Knight_anin_32: -1569365812
+      Knight_anin_33: 80848087
+      Knight_anin_34: -1863198109
+      Knight_anin_35: -1367725129
+      Knight_anin_36: 2031211433
+      Knight_anin_37: -1204451044
+      Knight_anin_4: 2041375059
+      Knight_anin_5: -781523032
+      Knight_anin_6: -599344684
+      Knight_anin_7: 1093824905
+      Knight_anin_8: -1062437001
+      Knight_anin_9: 2092778854
+      enemyLavukAtack_0: 199289454
+      enemyLavukAtack_1: -1938200823
+      enemyLavukAtack_10: 267146378
+      enemyLavukAtack_2: 1556942459
+      enemyLavukAtack_3: 1853749948
+      enemyLavukAtack_4: -1016885113
+      enemyLavukAtack_5: 1187724470
+      enemyLavukAtack_6: 1476631702
+      enemyLavukAtack_7: 907407886
+      enemyLavukAtack_8: -1388532406
+      enemyLavukAtack_9: 627506967
+      enemyLavukRun_0: -463273038
+      enemyLavukRun_1: 1080903797
+      enemyLavukRun_2: 784586272
+      enemyLavukRun_3: 812472904
+      enemyLavukRun_4: -800586494
+      enemyLavukRun_5: 93118083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
